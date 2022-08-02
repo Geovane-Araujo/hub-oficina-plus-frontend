@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para oficinas mecanicas
 
-Este projeto conta com as seguintes funcionalidades
+Este projeto conta com as seguintes funcionalidades.
 
 * Cadastros de Clientes
 * Cadastros de Produtos
