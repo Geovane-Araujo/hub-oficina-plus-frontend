@@ -1,4 +1,4 @@
-# project-hub
+# oficina-plus
 
 ## Project setup
 ```
